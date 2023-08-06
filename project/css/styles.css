@@ -48,6 +48,23 @@
 	background-color: black;
 	color: #fff;
 }
+#seven{
+	height: 6%;
+	width: 100%;
+	background-color: grey;
+	text-align: center;
+	padding-top:3%;
+	color: #fff;
+
+
+}
+#seven span{
+	color: blue;
+	padding-top: 10%;
+	
+	text-align: center;
+
+}
 #fird{
 	height:30%;
 	width: 30%;
