@@ -1,1 +1,1 @@
-# Capstone_p1
+# capstone_project
