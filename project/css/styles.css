@@ -1,0 +1,350 @@
+*{
+	padding: 0;
+	margin: 0;
+    box-sizing: border-box;
+}
+#maindiv{
+	height:3000px;
+	width: 100%;
+	background-color: red;
+	margin: 0px;
+	padding: 0px;
+}
+#firstd{
+	height: 30%;
+	width:100%;
+	background-color:#C0C0C0 ;
+	position: relative;	 
+}
+#secd{
+	height: 35%;
+	width:100%;
+	background-color:  #FF0000;
+	padding: 10px 30px 10px 90px;
+	 
+}
+#thirdd{
+	height: 20%;
+	width: 100%;
+	background-color: #C0C0C0;
+	position: relative;
+}
+#forthd{
+	height: 30%;
+	width: 100%;
+	background-color: yellow;
+	background-image: url("../img/img2.jpg");
+	background-size: cover;
+}
+#fivthd{
+	height: 30%;
+	width: 100%;
+	background-color: #C0C0C0;
+	position: relative;
+}
+#six{
+	height: 25%;
+	width: 100%;
+	background-color: black;
+	color: #fff;
+}
+#fird{
+	height:30%;
+	width: 30%;
+	background-color: #FFFF00;
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+#sed{
+	height:70%;
+	width:80% ;
+	background-image: url("../img/img.jpg");
+	background-size: cover;
+	position: absolute;
+	top: 5%;
+	right: 5%;
+}
+#thd{
+	height:35% ;
+	width: 30%;
+	background-color:#fff;
+	padding-right:3%;
+	 
+	padding-left: 3%;
+	position: absolute;
+	top: 50%;
+	left: 22%;
+}
+#thd center button{
+	height:70px;
+	width: 40%;
+	background-color: black;
+	color: #fff;
+}
+#secfd{
+	height:50%;
+	width:20%;
+	background-color: #fff;
+	float:left;
+	margin:10px 10px 10px 10px;	
+}
+.secfd{
+	position: absolute;
+	top: 115%;
+	left: 5%;
+}
+.secsd{
+	position: absolute;
+	top: 110%;
+	left: 27%;
+
+}
+.sectd{
+	position: absolute;
+	top: 115%;
+	left:49% ;
+}
+.secftd{
+	position: absolute;
+	top: 110%;
+	left:71% ;
+}
+.secfd i{
+	background-color: #FF0000;
+	margin-top: 10%;
+	margin-left: 40%;
+	font-size: 300%;
+	border:5px solid red;
+	border-radius: 50%;
+}
+.secsd i{
+	background-color: #FF0000;
+	margin-top: 10%;
+	margin-left: 35%;
+	font-size: 420%;
+	border:5px solid red;
+	border-radius: 50%;
+}
+.sectd i{
+	background-color: #FF0000;
+	margin-top: 10%;
+	margin-left: 35%;
+	font-size: 420%;
+	border:5px solid red;
+	border-radius: 50%;
+}
+.secftd i{
+	background-color: #FF0000;
+	margin-top: 10%;
+	margin-left: 35%;
+	font-size: 420%;
+	border:5px solid red;
+	border-radius: 50%;
+}
+.sed{
+	height:15%;
+	width:60%;
+	background-color: #FF0000;
+	color: #fff;
+	position: absolute;
+	top:177%;
+	left: 20%;
+	text-align: center;	 
+}
+#fff{
+	height:23%;
+	width: 25%;
+	background-color: #fff;
+	 margin-top: 40%;
+	color: black;
+	text-align: left;
+	padding: 2%;	
+}
+.fff{
+	float: left;
+}
+.ffs{
+	float: left;
+}
+.fft{
+	float: left;	 
+}
+#ts{
+	height:40%;
+	width:50%;
+	background-color: #fff;
+	padding-left: 8%;
+	position: absolute;
+	left: 30%;
+	bottom: 85%;
+}
+#ts button{
+	height:20%;
+	width:30%;
+	background-color: black;
+	color: #fff;
+}
+#tf{	
+	height: 40%;
+	width: 30%;
+	background-image:url("../img/img1.jpg");
+	background-size: cover;
+	position: absolute;
+	left: 10;
+	bottom: 80%;
+	margin-left: 5%;
+}
+#tt{
+	height: 75%;
+	width:100% ;
+	background-color: #C0C0C0;
+	position:absolute;
+	top:35%;
+	position: relative;
+	 
+}
+.ttf{
+	height: 30%;
+	width: 20%;
+	background-color: #fff;
+	position: absolute;
+	left: 25%;
+	top: 10%;
+}
+.tts{
+	height: 30%;
+	width: 20%;
+	background-color: #fff;
+	position: absolute;
+	left: 25%;
+	top: 45%;
+}
+.ttt{
+	height: 30%;
+	width: 20%;
+	background-color: #fff;
+	position: absolute;
+	left: 48%;
+	top: 10%;
+}
+.ttft{
+	height: 30%;
+	width: 20%;
+	background-color: #fff;
+	position: absolute;
+	left: 48%;
+	top: 45%;
+}
+#ttd center h3{
+	color: red;
+}
+#f1{
+	height:50%;
+	width:30%;
+	background-color: #fff;
+	float: right;
+	padding: 5%;
+	margin-top: 10%;
+	margin-right: 5%;
+}
+#f1 button{
+	height:20%;
+	width:40%;
+	background-color: black;
+	color: #fff;
+}
+#fi1{
+	height: 80%;
+	width: 30%;
+	background-color: red;
+	margin-left: 40%;
+	margin-right:25%;
+	position: absolute;
+	top: 10%;
+}
+#fi2{
+	height:44%;
+	width: 45%;
+	background-color: yellow;
+	background-image: url("../img/img4.jpg");
+	background-size: cover;
+	position: absolute;
+	left: 13%;
+ }
+#fi3{
+	height:48%;
+	width: 35%;
+	background-color: yellow;
+	background-image: url("../img/img5.jpg");
+	background-size: cover;
+	position: absolute;
+	right: 13%;
+	top:25%;
+ }
+ #fi4{
+ 	height:44%;
+	width: 30%;
+	background-color: #fff;
+	font-size: 20px;
+	padding: 3%;
+	position: absolute;
+	left: 13%;
+	top: 50%;
+ }
+ #fi4 button{
+ 	width: 50%;
+ 	height: 20%;
+ 	background-color: black;
+ 	color: #fff;
+ }
+ #six h1{
+ 	font-size: 60px;
+
+ 	padding: 15%;
+ 	padding-bottom: 0%;
+ }
+ #six h6{
+ 	font-size: 25px;
+ 	padding-left: 15%;
+ 	padding-right: 15%;
+ }
+ #six center input{
+ 	width: 50%;
+ 	height:20%;	 
+ }
+ #six button{
+ 	height: 20%;
+ 	width: 12%;
+ 	color: #fff;
+ 	background-color: red;
+ 	margin-left: 0%;
+ }
+#s1{
+	height:20%;
+	width:20%;
+	color: #fff;
+	float: left;
+	margin-left:15%; 
+}
+#s1 h4{
+	color:red;
+}
+#s2{
+	height:20%;
+	width:20%;
+	color: #fff;
+	float: left;	
+}
+#s2 h4{
+	color:red;
+}
+#s3{
+	height:20%;
+	width:20%;
+	color: #fff;
+	float: left;   
+}
+#s3 h4{
+	color:red;
+}
